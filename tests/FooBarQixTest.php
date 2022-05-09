@@ -1,6 +1,5 @@
 <?php
 
-
 use App\FooBarQix;
 
 // step1

@@ -1,6 +1,5 @@
 <?php
 
-
 use App\InfQixFoo;
 
 // validate input, output

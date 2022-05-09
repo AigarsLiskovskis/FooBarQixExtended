@@ -2,7 +2,6 @@
 
 namespace App;
 
-
 use InvalidArgumentException;
 
 class InfQixFoo
